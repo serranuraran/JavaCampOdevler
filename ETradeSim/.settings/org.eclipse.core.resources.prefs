@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/ETradeSim/business/concretes/AuthManager.java=UTF-8
+encoding//src/ETradeSim/business/concretes/ValidityManager.java=UTF-8
+encoding//src/ETradeSim/dataAccess/concretes/HibernateUserDao.java=UTF-8
